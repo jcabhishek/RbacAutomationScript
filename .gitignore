@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Secrets
+.env
+
+# Stray package copy (installed via node_modules)
+/@faker-js/
